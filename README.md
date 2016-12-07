@@ -1,6 +1,6 @@
 # MediaDropDemo
 
-Install a MediaDrop Demo instance.
+Install a 2h free MediaDrop Demo instance with https://dply.co.
 All settings are public so don't use it as production !
 Use at your own risk ;)
 
