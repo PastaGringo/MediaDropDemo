@@ -6,6 +6,6 @@ Use at your own risk ;)
 
 Please wait 5mn after the VPS built to access your MediaDrop Demo at http://ServerIP
 
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/9FVqYWHa) 
+[![Dply](https://dply.co/b.svg)](http://bit.ly/2hGWlbQ) 
           
           
